@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StarMechanic
+  m_Shader: {fileID: -6465566751694194690, guid: 7d197dd1afbc3274baf9571948da9738, type: 3}
+  m_ShaderKeywords: ENUM_463412D028D84C9BBC4BCB54806167EF_OFF ISACTIVE_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_2ea51c853154498fb1d5f4f3e16c1074:
+        m_Texture: {fileID: 2800000, guid: 7302a38c7794ad14296164d2eef0bf0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_e8ee0943b05b4832a09edd35c23fe5ec:
+        m_Texture: {fileID: 2800000, guid: 7302a38c7794ad14296164d2eef0bf0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - ENUM_00B600EA5C9948AD9352EC043573C818: 0
+    - ENUM_463412D028D84C9BBC4BCB54806167EF: 1
+    - ISACTIVE: 0
+    - Vector1_39b9796774134ee98487ad262d70c7af: 2
+    - Vector1_7583c3523f104bd9be2edc8f28ad9597: 0
+    - Vector1_d324b2d319a6486f8518a946e2b56c80: 0.3
+    - Vector1_ea8c872ac11e43e2bae4bb03900ebcb6: 10
+    - _ISACTIVE: 0
+    m_Colors:
+    - Color_049b95f59e164478b7257e91ac7e5a77: {r: 0, g: 0, b: 0, a: 0}
+    - Color_666331070e9f4296add71b1c3c4525e1: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_969e48a926954b6693cee5331c5f46d4: {r: 1, g: 1, b: 0, a: 0}
+    - Vector3_3730368823c44d1e953a46511a72fa16: {r: 0, g: 2, b: 4, a: 0}
+  m_BuildTextureStacks: []
