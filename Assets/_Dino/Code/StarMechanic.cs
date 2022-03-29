@@ -34,7 +34,7 @@ public class StarMechanic : MonoBehaviour
     {
         if (other.CompareTag("star"))
         {
-            Debug.Log("Yes");
+            // Debug.Log("Yes");
             m_isAactive = true;
         }
     }
