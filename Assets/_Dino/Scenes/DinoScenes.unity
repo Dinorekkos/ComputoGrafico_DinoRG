@@ -177,7 +177,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 514ed39ceff1ec240868ecf22e94925e, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 7aa50eaccedc62443ba2ac958a93e0b0, type: 2}
+      objectReference: {fileID: 2100000, guid: 02a7c60e485bc8c44aea255b626e8f94, type: 2}
     - target: {fileID: 919132149155446097, guid: 514ed39ceff1ec240868ecf22e94925e, type: 3}
       propertyPath: m_Name
       value: Trex
@@ -361,7 +361,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 829cf595b8b3c8e4b8bf47e72e5974fe, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 7aa50eaccedc62443ba2ac958a93e0b0, type: 2}
+      objectReference: {fileID: 2100000, guid: 1824c89aa9d4ebf43992cbaa6f9e8b6a, type: 2}
     - target: {fileID: 919132149155446097, guid: 829cf595b8b3c8e4b8bf47e72e5974fe, type: 3}
       propertyPath: m_Name
       value: Triceratops
@@ -599,7 +599,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1454621006
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -669,13 +669,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1454621005}
-  m_LocalRotation: {x: -0, y: 0.61096525, z: -0, w: 0.79165745}
+  m_LocalRotation: {x: -0.009323824, y: 0.5778405, z: -0.028833263, w: 0.8155869}
   m_LocalPosition: {x: 0, y: 5.661, z: -10.309}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 75.319, z: 0}
+  m_LocalEulerAnglesHint: {x: 1.038, y: 70.605, z: -3.315}
 --- !u!1001 &1740069504
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -762,19 +762,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3e72be4d8cdb3541ae2df0c1eb15e15, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.7027855
+      value: -0.7131305
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3e72be4d8cdb3541ae2df0c1eb15e15, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.68953496
+      value: 0.69958425
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3e72be4d8cdb3541ae2df0c1eb15e15, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.12531896
+      value: -0.032515105
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3e72be4d8cdb3541ae2df0c1eb15e15, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.12218562
+      value: -0.0311381
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3e72be4d8cdb3541ae2df0c1eb15e15, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -782,7 +782,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3e72be4d8cdb3541ae2df0c1eb15e15, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 23.384
+      value: 8.384
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3e72be4d8cdb3541ae2df0c1eb15e15, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -791,7 +791,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: e3e72be4d8cdb3541ae2df0c1eb15e15, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 7aa50eaccedc62443ba2ac958a93e0b0, type: 2}
+      objectReference: {fileID: 2100000, guid: fc6a6613f947b4b42a3fb6475f15f51b, type: 2}
     - target: {fileID: 919132149155446097, guid: e3e72be4d8cdb3541ae2df0c1eb15e15, type: 3}
       propertyPath: m_Name
       value: Apatosaurus
@@ -827,7 +827,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3e43a02d1429dc749bfd9d05b5683aed, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.47334608
+      value: -0.47334605
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3e43a02d1429dc749bfd9d05b5683aed, type: 3}
       propertyPath: m_LocalRotation.y
@@ -852,7 +852,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 3e43a02d1429dc749bfd9d05b5683aed, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 7aa50eaccedc62443ba2ac958a93e0b0, type: 2}
+      objectReference: {fileID: 2100000, guid: e6915a761682d13498482698b00f89f0, type: 2}
     - target: {fileID: 919132149155446097, guid: 3e43a02d1429dc749bfd9d05b5683aed, type: 3}
       propertyPath: m_Name
       value: Spinosuarus
