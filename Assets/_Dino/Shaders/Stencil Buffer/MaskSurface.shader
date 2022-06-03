@@ -8,6 +8,7 @@ Shader "Unlit/MaskSurface"
     {
         Tags { "RenderType"="Opaque" }
         LOD 100
+        Zwrite off
         Stencil{
             ref 1
             comp always

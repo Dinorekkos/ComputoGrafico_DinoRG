@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TestHiddenObject
+  m_Name: Glow_Dino
   m_Shader: {fileID: 4800000, guid: 8d65c9badffbeb54b8b9a11d9bc32536, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4

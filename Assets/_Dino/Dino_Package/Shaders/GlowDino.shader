@@ -25,6 +25,8 @@ Shader "GlowShader"
             "UniversalMaterialType" = "Lit"
             "Queue"="Geometry"
         }
+         LOD 100
+        
          Stencil{
             ref 1
             comp equal
